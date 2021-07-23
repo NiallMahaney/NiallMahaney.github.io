@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: the titles and descriptions can be changed
+title: Niall Mahaney's Webpage
+description: William and Mary MSBA
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
