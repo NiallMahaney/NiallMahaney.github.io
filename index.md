@@ -4,3 +4,5 @@ description: William and Mary MSBA
 ---
 
 This is the content I've developed for my courses:
+
+- [Matplotlib Graph](/matplotgraph/index.md)
