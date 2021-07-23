@@ -11,4 +11,4 @@ This is the content I've developed for my courses:
 
 
 ![My Picture](/pics/IMG_6977.JPG)
-My brother and I at my undergraduate graduation!
+My brother (right) and I at my undergraduate graduation!
